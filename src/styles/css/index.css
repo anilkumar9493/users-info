@@ -1,0 +1,10 @@
+.span-style {
+  justify-content: center;
+  display: flex;
+  font-size: x-large;
+}
+
+.name-cell {
+  display: flex;
+  align-items: center;
+}
